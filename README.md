@@ -18,14 +18,14 @@ Este projeto tem como objetivo analisar dados de clientes de um serviço de bele
    cd analise_de_dados_pandas_py
 
 2. **Crie e ative um ambiente virtual**:
-  ```bash
-  python -m venv venv
-  source venv/Scripts/activate  # No Windows use: venv\Scripts\activate
+    ```bash
+    python -m venv venv
+    source venv/Scripts/activate  # No Windows use: venv\Scripts\activate
 
 3. Instale as dependências:
 
-  ```bash
-  pip install pandas matplotlib seaborn sqlalchemy psycopg2
+    ```bash
+    pip install pandas matplotlib seaborn sqlalchemy psycopg2
 
 
 ## Passos para Análise
