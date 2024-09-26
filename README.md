@@ -52,3 +52,5 @@ Este projeto tem como objetivo analisar dados de clientes de um serviço de bele
 
 ## Gráficos Gerados
 - Distribuição do Número de Serviços por Cliente: Gráfico de barras que mostra quantos clientes têm uma determinada quantidade de serviços.
+- Serviços mais rentáveis: Gráfico de barras que mostra os serviços que geram mais retorno monetário.
+- Tipo de serviço mais escolhidos pelos clientes: Gráfico de barras que mostra os serviços preferidos entre os clientes.
