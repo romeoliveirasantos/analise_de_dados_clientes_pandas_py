@@ -20,7 +20,9 @@ Este projeto tem como objetivo analisar dados de clientes de um serviço de bele
 2. **Crie e ative um ambiente virtual**:
     ```bash
     python -m venv venv
-    source venv/Scripts/activate  # No Windows use: venv\Scripts\activate
+    #utilizando o bash
+    source venv/Scripts/activate  
+    #No Windows use: venv\Scripts\activate
 
 3. Instale as dependências:
 
